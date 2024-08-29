@@ -47,11 +47,11 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!--Reactive programming (reaktif programlama) modeline dayalı web uygulamaları geliştirmek için kullanılan starter bağımlılığıdır. -->
+        <!--Reactive programming (reaktif programlama) modeline dayalı web uygulamaları geliştirmek için kullanılan starter bağımlılığıdır. ->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webflux</artifactId>
-        </dependency>
+        </dependency> -->
 
         <!-- Java kodunu daha temiz ve okunabilir hale getirmek için kullanılan bir kütüphanedir. Otomatik getter, setter, toString, equals gibi metodları oluşturur. -->
         <dependency>
@@ -60,7 +60,7 @@
             <optional>true</optional>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.telegram/telegrambots-spring-boot-starter -->
+        <!-- https://mvnrepository.com/artifact/org.telegram/telegrambots-spring-boot-starter ->
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots-spring-boot-starter</artifactId>
@@ -68,12 +68,12 @@
         </dependency>
 
 
-        <!-- https://mvnrepository.com/artifact/org.telegram/telegrambots-abilities -->
+        <!- https://mvnrepository.com/artifact/org.telegram/telegrambots-abilities ->
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots-abilities</artifactId>
             <version>7.9.1</version>
-        </dependency>
+        </dependency> -->
 
         <!-- https://mvnrepository.com/artifact/org.telegram/telegrambots -->
         <dependency>
